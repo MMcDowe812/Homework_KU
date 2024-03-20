@@ -14,3 +14,7 @@ Limitations:
 
 Another Graph option:
 -A pie chart would best display the parent category success rates.
+
+## Backer analysis
+
+The more backers a project had then the greater chance of success.  Failed backers shows that the greater number of backers doesn't guarantee success.  The data also shows that if you got around 201 backers then your chance of success increases.
